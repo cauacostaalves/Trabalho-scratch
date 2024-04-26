@@ -9,13 +9,13 @@ Introdução:
 
 2. Elementos Utilizados:
 
-    1.Movimentos: Usei os blocos de movimento para controlar a movimentação da bola e tambem do receptor.
-    2.Aparências: Criei diferentes fantasias nos atores, para fazer o movimento dos atores, como exemplo quando se usa o bastão, é basicamente uma troca de fantasia que acontece no codigo para simular o movimento. 
-    3.Sons: Adicionei sons de taco e apitos par atornar o jogo mais imersivo. 
-    4.Eventos: Utilizei eventos para detectar colisões entre o taco e a bola na primeira fase e entre a luva e a bola na segunda fase. 
+    1.Movimentos: Usei os blocos de movimento para controlar a movimentação da bola e tambem do receptor. <br>
+    2.Aparências: Criei diferentes fantasias nos atores, para fazer o movimento dos atores, como exemplo quando se usa o bastão, é basicamente uma troca de fantasia que acontece no codigo para simular o movimento. <br>
+    3.Sons: Adicionei sons de taco e apitos par atornar o jogo mais imersivo. <br>
+    4.Eventos: Utilizei eventos para detectar colisões entre o taco e a bola na primeira fase e entre a luva e a bola na segunda fase. <br>
     5.Controle: Os controles do jogo são simples, na primeira fase basta aperta espaço para usar o bastão e na segunda os jogadores podem mover o receptor usando as teclas a (esquerda), s (meio), d (direita),(canto 
-    superior esquerdo) e e (canto superior direito).
-    6.Variáveis: Utilizei variáveis para controlar a pontuação do jogador e a quantidade de chances de perde a bola.
+    superior esquerdo) e e (canto superior direito).<br>
+    6.Variáveis: Utilizei variáveis para controlar a pontuação do jogador e a quantidade de chances de perde a bola.<br>
     7.Operadores: Utilizei operadores para calcular a pontuação com base em quantas vezes o jogador rebate a bola ou pega ela. 
 
 3. Funcionamento do Jogo:  
