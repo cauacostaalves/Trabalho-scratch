@@ -24,7 +24,7 @@ Introdução:
 4. Gif que mostra um pouco do jogo:
    <div align="center">
 
-<img src="https://github.com/sepandhaghighi/art/raw/master/otherfile/ART.gif">
+<img src="[https://github.com/sepandhaghighi/art/raw/master/otherfile/ART.gif](https://github.com/cauacostaalves/Trabalho-scratch/blob/76037cadee65ca5017a08160146d603f8c357ec0/Game%20file/Gifgamebaseball.gif)">
 <p>Quick Start</p>
 
 </div>	
