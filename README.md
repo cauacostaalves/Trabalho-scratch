@@ -22,11 +22,8 @@ Introdução:
   Nosso jogo apresenta dois desafios diferentes. Na primeira etapa, os jogadores devem usar o tempo e a coordenação para acertar a bola com o taco seis vezes seguidas. Na segunda fase, o foco muda para o controle preciso do receptor de beisebol, que precisa interceptar a bola que se aproxima pela borda inferior da tela.
 
 4. Gif que mostra um pouco do jogo:
-   <div align="center">
-
-<img src="https://github.com/cauacostaalves/Trabalho-scratch/blob/76037cadee65ca5017a08160146d603f8c357ec0/Game%20file/Gifgamebaseball.gif">
-<p>Quick Start</p>
-
-</div>	
+ <div align="center"> 
+    <img src="https://github.com/cauacostaalves/Trabalho-scratch/blob/76037cadee65ca5017a08160146d603f8c357ec0/Game%20file/Gifgamebaseball.gif">
+ </div>	
 
 
