@@ -24,6 +24,7 @@ Introdução:
     <img src="https://github.com/cauacostaalves/Trabalho-scratch/blob/76037cadee65ca5017a08160146d603f8c357ec0/Game%20file/Gifgamebaseball.gif">
  </div>	
 
+ 
  5. Conclusão:
     Por fim, este projeto de jogo de baseball oferece uma experiência dinâmica e desafiadora, proporcionando aos jogadores a oportunidade de testar suas habilidades de rebatida e recepção. Com duas fases distintas, cada uma exigindo diferentes conjuntos de habilidades e estratégias, este jogo promete entretenimento cativante e diversão garantida para os entusiastas do baseball e jogadores em geral.
 
